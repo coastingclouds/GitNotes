@@ -14,7 +14,7 @@ git status
 git status -s
 git commit -m "first commit"
 git remote add origin https://github.com/coastingclouds/GitNotes.git
-git push -u origin master
+git push -u origin master  (-u <upstream>  master )
 …or push an existing repository from the command line
 
 #pull tags
